@@ -4,4 +4,4 @@
 -->
 - 🔭 I’m currently studying computer science at school
 - 🦾 I’m trying learning some programming code
-- 👥 Anyone who wants to help me can write me
+- 👥 Anyone who wants to help, can write me
